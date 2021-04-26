@@ -185,8 +185,8 @@ first
 
 38
 00:01:54,880 --> 00:01:57,689
-要按幅度卖矿案件进入到
-It is necessary to enter into the market according to the range of ore selling cases
+要按幅度脉宽按键进入到
+It is necessary to press range button to enter
 
 39
 00:01:57,690 --> 00:01:59,689
